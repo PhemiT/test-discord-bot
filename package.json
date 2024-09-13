@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,json,css,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
